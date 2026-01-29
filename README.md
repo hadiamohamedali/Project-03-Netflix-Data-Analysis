@@ -107,15 +107,4 @@ The goal is to explore content types, genres, countries, release trends, ratings
 * Ratings show wide variety with most content aimed at general audience.
 * Movie durations mostly between 60–150 minutes; TV Shows mostly 1–5 seasons.
 
----
-
-## 🚀 Future Improvements
-
-* Merge with external datasets (IMDb, Rotten Tomatoes) for ratings analysis.
-* Predict future content trends using Machine Learning.
-* Create interactive dashboards with Plotly / Streamlit for Netflix insights.
-
----
-
-✨ **Project complete – ready for GitHub, portfolio, or LinkedIn showcase**
 
